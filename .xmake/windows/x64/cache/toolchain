@@ -1,0 +1,22 @@
+{
+    ["tool_target_tic-tac-toe_windows_x64_cc"] = {
+        toolname = "clang",
+        program = "clang",
+        toolchain_info = {
+            plat = "windows",
+            arch = "x64",
+            name = "clang",
+            cachekey = "clang_arch_x64_plat_windows"
+        }
+    },
+    ["tool_target_tic-tac-toe_windows_x64_cxx"] = {
+        toolname = "clang",
+        program = "clang",
+        toolchain_info = {
+            plat = "windows",
+            arch = "x64",
+            name = "clang",
+            cachekey = "clang_arch_x64_plat_windows"
+        }
+    }
+}
